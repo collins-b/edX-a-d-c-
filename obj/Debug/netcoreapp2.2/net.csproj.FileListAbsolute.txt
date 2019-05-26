@@ -1,0 +1,11 @@
+/Users/cwb/samples/net/obj/Debug/netcoreapp2.2/net.csprojAssemblyReference.cache
+/Users/cwb/samples/net/obj/Debug/netcoreapp2.2/net.csproj.CoreCompileInputs.cache
+/Users/cwb/samples/net/obj/Debug/netcoreapp2.2/net.AssemblyInfoInputs.cache
+/Users/cwb/samples/net/obj/Debug/netcoreapp2.2/net.AssemblyInfo.cs
+/Users/cwb/samples/net/bin/Debug/netcoreapp2.2/net.deps.json
+/Users/cwb/samples/net/bin/Debug/netcoreapp2.2/net.runtimeconfig.json
+/Users/cwb/samples/net/bin/Debug/netcoreapp2.2/net.runtimeconfig.dev.json
+/Users/cwb/samples/net/bin/Debug/netcoreapp2.2/net.dll
+/Users/cwb/samples/net/bin/Debug/netcoreapp2.2/net.pdb
+/Users/cwb/samples/net/obj/Debug/netcoreapp2.2/net.dll
+/Users/cwb/samples/net/obj/Debug/netcoreapp2.2/net.pdb
