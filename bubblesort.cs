@@ -25,8 +25,9 @@ namespace Bubblesort
     } while(swapped == true);
     
     for(int i = 0; i < nums.Length; i++) {
-        Console.Write("{0}, ");
+        Console.Write("{0}, ", nums[i]);
     }
+    Console.WriteLine();
   }
  }
 }
